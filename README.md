@@ -77,3 +77,4 @@ This UI/UX design for the Myntra Mobile App successfully enhances the shopping e
 
 ***OUTPUT***
 
+<img width="473" alt="Image" src="https://github.com/user-attachments/assets/1fa8def0-66e2-49e4-a1b2-c7121215019a" />
