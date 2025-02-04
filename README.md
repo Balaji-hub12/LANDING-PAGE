@@ -13,6 +13,7 @@ BATCH DURATION: January 5th, 2025 to February 5th, 2025
 MENTOR NAME: NEELA SANTHOSH
 
 **DESCRIPTION OF TASK PERFORMED:**
+
 **TASK: 1 LANDING PAGE-Myntra Mobile App**
 
 **1. Introduction**
